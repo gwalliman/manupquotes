@@ -1,0 +1,8 @@
+#Django
+django==2.1.5
+
+# Configuration 
+django-environ==0.4.4
+
+# Images
+pillow==5.4.1
