@@ -320,3 +320,7 @@ config/geoip/
 !**/static/js/jquery.appear.min.js
 !**/static/js/slick.min.js
 !**/static/js/fundraising.min.js
+backgrounds
+.viminfo
+.bash_history
+db.sqlite3
